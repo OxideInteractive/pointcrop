@@ -1,0 +1,11 @@
+/**
+ * jQuery PointCrop 1.0
+ *
+ * Copyright 2012, Oxide Interactive (http://oxideinteractive.com.au)
+ * Released under the MIT license
+ *
+ * http://pointcrop.com
+ */
+
+img.pointcrop-landscape { height:100%; width:auto; }
+img.pointcrop-portrait { height:auto; width:100%; }
